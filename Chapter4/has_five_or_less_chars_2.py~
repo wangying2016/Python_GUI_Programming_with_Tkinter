@@ -1,3 +1,0 @@
-class FiveCharEntry2(ttk.Entry):
-    """An Entry that truncates to five characters on exit."""
-    
