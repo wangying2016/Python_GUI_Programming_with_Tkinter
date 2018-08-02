@@ -1,0 +1,5 @@
+Date,Time,Technician,Lab,Plot,Seed sample,Humidity,Equipment Fault,Light,Temperature,Plants,Blossoms,Fruit,Max Height,Min Height,Median Height,Notes
+2018.08.01,20:00,1,D,4,1,1.0,False,1,1.0,1,1,1,1,1,1,"This is a test.
+"
+2018.08.01,20:00,2,C,4,2,2.0,False,2,2.0,2,2,2,2,2,2,"This is another test.
+"
